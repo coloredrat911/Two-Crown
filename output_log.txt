@@ -7,3 +7,331 @@ Direct3D:
     VRAM:     1401 MB
     Driver:   8.970.100.9001
 Begin MonoManager ReloadAssembly
+- Completed reload, in  1.972 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.002222 ms
+Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/data-0DB3E088.dll
+Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/data-0DBA4008.dll
+Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/data-1AA73020.dll
+Rewired: Searching for compatible XInput library...
+Rewired: Found Xinput1_3.dll.
+Found SystemLanguage Russian (30): 8
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/SavedGames
+Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/.\SavedGames
+Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/SavedGames
+Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/libSavedGames
+Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/.\libSavedGames
+Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/libSavedGames
+Got AppID: 701160
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Steam: Logged in as: coloredrat
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/DataPlatform
+Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/.\DataPlatform
+Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/DataPlatform
+Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/libDataPlatform
+Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/.\libDataPlatform
+Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/libDataPlatform
+Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/Storage
+Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/.\Storage
+Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/Storage
+Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/libStorage
+Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/.\libStorage
+Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/libStorage
+Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/Marketplace
+Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/.\Marketplace
+Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/Marketplace
+Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/libMarketplace
+Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/.\libMarketplace
+Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/libMarketplace
+Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/Friends
+Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/.\Friends
+Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/Friends
+Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/libFriends
+Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/.\libFriends
+Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/libFriends
+Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/Multiplayer
+Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/.\Multiplayer
+Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/Multiplayer
+Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/libMultiplayer
+Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/.\libMultiplayer
+Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/libMultiplayer
+ProgramDirector begun LoadingLoaderScene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+UNet Router setup
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+ProgramDirector begun Engagement
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+USING RENDER PIPELINE: screen manager not null
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Steam: User Stats Received
+
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+ProgramDirector begun InitialisingFiler
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+ProgramDirector begun LoadingGlobalSaveData
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Found SystemLanguage Russian (30): 8
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Filer begun turn 0 for GlobalSaveData.TryLoad of 'global-v35'.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Filer.DotNetAgent trying to read from "C:/Users/Home/AppData/LocalLow/noio/KingdomTwoCrowns\Release\global-v35" (exists: True)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+GlobalSaveData Load, Success
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+ProgramDirector begun LoadingIslandSaveData
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Filer begun turn 0 for IslandSaveData.TryLoad of 'island-v35-c0-l0'.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Filer.DotNetAgent trying to read from "C:/Users/Home/AppData/LocalLow/noio/KingdomTwoCrowns\Release\island-v35-c0-l0" (exists: True)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+IslandSaveData Load, Success
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+ProgramDirector begun ShowingSplash
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SteamPlatformManager+<SetAchievementStatusWhenReady>c__Iterator2.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ProgramDirector begun LoadingMainScene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+WARNING: Shader Unsupported: 'Custom/Directional' - Pass '' has no vertex shader
+ERROR: Shader Shader is not supported on this GPU (none of subshaders/fallbacks are suitable)WARNING: Shader Unsupported: 'Custom/Directional' - Setting to default shader.
+Managers.Inst.InitAll() 1432
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+TOUCH DISABLED. 96 DPI. Deadzone 9.6-28.8 pixels (capped 1.0). Res 853x610
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Setting render size to 853x610 (Camera 0)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Setting water size to 426x306
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Setting render size to 853x610 (Camera 1)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Setting water size to 426x306
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+ProgramDirector begun BuildingLevel
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+Did not register 'Wreck(Clone)' with the network layer on load, due to the wreck/wharf conundruum (Wreck: True, Wharf: False)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+[CAVE] New cave state: None
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+[RP]Setting rich presence: InMenu
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+CampaignSaveData.ApplyToScene:
+newIsland: False	sailingIn: False	newReignForIslandPostLoss: False
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+During loading, found that the WRECK should be active
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 60455.
+Total: 138.023617 ms (FindLiveObjects: 14.534179 ms CreateObjectMapping: 7.150978 ms MarkObjects: 115.861303 ms  DeleteObjects: 0.469822 ms)
+
+[CAVE] New cave state: None
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+ProgramDirector begun RunningGame
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Filer begun turn 0 for IslandSaveData.TrySave of 'island-v35-c0-l0'.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Filer.DotNetAgent trying to write to "C:/Users/Home/AppData/LocalLow/noio/KingdomTwoCrowns\Release\island-v35-c0-l0" (exists: True)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+IslandSaveData Save, Success
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Filer begun turn 0 for GlobalSaveData.TrySave of 'global-v35'.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Filer.DotNetAgent trying to write to "C:/Users/Home/AppData/LocalLow/noio/KingdomTwoCrowns\Release\global-v35" (exists: True)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+GlobalSaveData Save, Success
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+DPI 96 (96) h: 6.354167
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Filer begun turn 0 for GlobalSaveData.TrySave of 'global-v35'.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Filer.DotNetAgent trying to write to "C:/Users/Home/AppData/LocalLow/noio/KingdomTwoCrowns\Release\global-v35" (exists: True)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+GlobalSaveData Save, Success
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+[RP]Setting rich presence: InMenu
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Filer begun turn 0 for IslandSaveData.TrySave of 'island-v35-c0-l0'.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Filer.DotNetAgent trying to write to "C:/Users/Home/AppData/LocalLow/noio/KingdomTwoCrowns\Release\island-v35-c0-l0" (exists: True)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+IslandSaveData Save, Success
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Filer begun turn 0 for GlobalSaveData.TrySave of 'global-v35'.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Filer.DotNetAgent trying to write to "C:/Users/Home/AppData/LocalLow/noio/KingdomTwoCrowns\Release\global-v35" (exists: True)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+GlobalSaveData Save, Success
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+[RP]Setting rich presence: LandOne
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: c78 -> priority: 1 
+  Thread -> id: 1104 -> priority: 1 
+[CAVE] Last spawner
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+[CAVE] New cave state: FightingBoss
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+[CAVE] SpawningBossWave
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 447)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at Pool.FastDespawn (UnityEngine.GameObject clone, Single delay, Boolean ignoreWarnings) [0x00000] in <filename unknown>:0 
+  at Pool.TryDespawn (UnityEngine.GameObject clone, Single delay, .Pool& pool) [0x00000] in <filename unknown>:0 
+  at Pool.DespawnOrDestroy (UnityEngine.GameObject clone, Single delay) [0x00000] in <filename unknown>:0 
+  at Grass.RemoveThicket () [0x00000] in <filename unknown>:0 
+  at Grass.set_stage (Int32 value) [0x00000] in <filename unknown>:0 
+  at Grass.UpdateHeight (Int32 delta, Boolean recursive) [0x00000] in <filename unknown>:0 
+  at Grass.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at Pool.FastDespawn (UnityEngine.GameObject clone, Single delay, Boolean ignoreWarnings) [0x00000] in <filename unknown>:0 
+  at Pool.TryDespawn (UnityEngine.GameObject clone, Single delay, .Pool& pool) [0x00000] in <filename unknown>:0 
+  at Pool.DespawnOrDestroy (UnityEngine.GameObject clone, Single delay) [0x00000] in <filename unknown>:0 
+  at Grass.RemoveThicket () [0x00000] in <filename unknown>:0 
+  at Grass.set_stage (Int32 value) [0x00000] in <filename unknown>:0 
+  at Grass.UpdateHeight (Int32 delta, Boolean recursive) [0x00000] in <filename unknown>:0 
+  at Grass.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+CalleeStoppedException: Callee 'Game.Run' of 'ProgramDirector.Run' was stopped!
+
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception, Object)
+Coatsink.Common.Haglet:HandleException(Exception)
+Coatsink.Common.Haglet:TryExecute(ExecParams)
+Coatsink.Common.Haglet:TryExecute(ExecParams)
+Coatsink.Common.Haglet:Stop(Boolean)
+Coatsink.Common.Haglet:Coatsink.Common.HagletEvent.IResponder.OnEventCancel(HagletEvent)
+Coatsink.Common.HagletEvent:Cancel()
+Coatsink.Common.HagletBehaviourTime:OnDestroy()
+ 
+(Filename:  Line: -1)
+
