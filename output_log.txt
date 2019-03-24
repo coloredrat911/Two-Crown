@@ -7,14 +7,14 @@ Direct3D:
     VRAM:     1401 MB
     Driver:   8.970.100.9001
 Begin MonoManager ReloadAssembly
-- Completed reload, in  1.972 seconds
+- Completed reload, in  1.524 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.002222 ms
-Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/data-0DB3E088.dll
-Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/data-0DBA4008.dll
-Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/data-1AA73020.dll
+UnloadTime: 0.929866 ms
+Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/data-0DFBCDF0.dll
+Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/data-0E01B008.dll
+Fallback handler could not load library D:/Program Files/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/data-1AEB8020.dll
 Rewired: Searching for compatible XInput library...
 Rewired: Found Xinput1_3.dll.
 Found SystemLanguage Russian (30): 8
@@ -142,7 +142,7 @@ ProgramDirector begun LoadingMainScene
 
 WARNING: Shader Unsupported: 'Custom/Directional' - Pass '' has no vertex shader
 ERROR: Shader Shader is not supported on this GPU (none of subshaders/fallbacks are suitable)WARNING: Shader Unsupported: 'Custom/Directional' - Setting to default shader.
-Managers.Inst.InitAll() 1432
+Managers.Inst.InitAll() 1152
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
 
@@ -171,11 +171,11 @@ ProgramDirector begun BuildingLevel
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
 
 Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
-Did not register 'Wreck(Clone)' with the network layer on load, due to the wreck/wharf conundruum (Wreck: True, Wharf: False)
+[CAVE] New cave state: None
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
 
-[CAVE] New cave state: None
+Did not register 'Wreck(Clone)' with the network layer on load, due to the wreck/wharf conundruum (Wreck: True, Wharf: False)
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
 
@@ -194,7 +194,7 @@ During loading, found that the WRECK should be active
 
 
 Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 60455.
-Total: 138.023617 ms (FindLiveObjects: 14.534179 ms CreateObjectMapping: 7.150978 ms MarkObjects: 115.861303 ms  DeleteObjects: 0.469822 ms)
+Total: 114.129658 ms (FindLiveObjects: 12.634846 ms CreateObjectMapping: 6.414223 ms MarkObjects: 94.731034 ms  DeleteObjects: 0.342222 ms)
 
 [CAVE] New cave state: None
  
@@ -204,43 +204,7 @@ ProgramDirector begun RunningGame
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
 
-Filer begun turn 0 for IslandSaveData.TrySave of 'island-v35-c0-l0'.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
-
-Filer.DotNetAgent trying to write to "C:/Users/Home/AppData/LocalLow/noio/KingdomTwoCrowns\Release\island-v35-c0-l0" (exists: True)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
-
-IslandSaveData Save, Success
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
-
-Filer begun turn 0 for GlobalSaveData.TrySave of 'global-v35'.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
-
-Filer.DotNetAgent trying to write to "C:/Users/Home/AppData/LocalLow/noio/KingdomTwoCrowns\Release\global-v35" (exists: True)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
-
-GlobalSaveData Save, Success
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
-
 DPI 96 (96) h: 6.354167
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
-
-Filer begun turn 0 for GlobalSaveData.TrySave of 'global-v35'.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
-
-Filer.DotNetAgent trying to write to "C:/Users/Home/AppData/LocalLow/noio/KingdomTwoCrowns\Release\global-v35" (exists: True)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
-
-GlobalSaveData Save, Success
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
 
@@ -248,6 +212,10 @@ GlobalSaveData Save, Success
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
 
+DPI 96 (96) h: 6.354167
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
+
 Filer begun turn 0 for IslandSaveData.TrySave of 'island-v35-c0-l0'.
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
@@ -272,13 +240,25 @@ GlobalSaveData Save, Success
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
 
-[RP]Setting rich presence: LandOne
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
-
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: c78 -> priority: 1 
-  Thread -> id: 1104 -> priority: 1 
+  Thread -> id: 1894 -> priority: 1 
+  Thread -> id: 1bf0 -> priority: 1 
+CalleeStoppedException: Callee 'Game.Run' of 'ProgramDirector.Run' was stopped!
+
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception, Object)
+Coatsink.Common.Haglet:HandleException(Exception)
+Coatsink.Common.Haglet:TryExecute(ExecParams)
+Coatsink.Common.Haglet:TryExecute(ExecParams)
+Coatsink.Common.Haglet:Stop(Boolean)
+Coatsink.Common.Haglet:Coatsink.Common.HagletEvent.IResponder.OnEventCancel(HagletEvent)
+Coatsink.Common.HagletEvent:Cancel()
+Coatsink.Common.HagletBehaviourTime:OnDestroy()
+ 
+(Filename:  Line: -1)
+
 [CAVE] Last spawner
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 43)
@@ -301,8 +281,6 @@ NullReferenceException
   at Pool.TryDespawn (UnityEngine.GameObject clone, Single delay, .Pool& pool) [0x00000] in <filename unknown>:0 
   at Pool.DespawnOrDestroy (UnityEngine.GameObject clone, Single delay) [0x00000] in <filename unknown>:0 
   at Grass.RemoveThicket () [0x00000] in <filename unknown>:0 
-  at Grass.set_stage (Int32 value) [0x00000] in <filename unknown>:0 
-  at Grass.UpdateHeight (Int32 delta, Boolean recursive) [0x00000] in <filename unknown>:0 
   at Grass.OnDisable () [0x00000] in <filename unknown>:0 
  
 (Filename:  Line: -1)
@@ -313,25 +291,17 @@ NullReferenceException
   at Pool.TryDespawn (UnityEngine.GameObject clone, Single delay, .Pool& pool) [0x00000] in <filename unknown>:0 
   at Pool.DespawnOrDestroy (UnityEngine.GameObject clone, Single delay) [0x00000] in <filename unknown>:0 
   at Grass.RemoveThicket () [0x00000] in <filename unknown>:0 
-  at Grass.set_stage (Int32 value) [0x00000] in <filename unknown>:0 
-  at Grass.UpdateHeight (Int32 delta, Boolean recursive) [0x00000] in <filename unknown>:0 
   at Grass.OnDisable () [0x00000] in <filename unknown>:0 
  
 (Filename:  Line: -1)
 
-CalleeStoppedException: Callee 'Game.Run' of 'ProgramDirector.Run' was stopped!
-
-UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
-UnityEngine.DebugLogHandler:LogException(Exception, Object)
-UnityEngine.Logger:LogException(Exception, Object)
-UnityEngine.Debug:LogException(Exception, Object)
-Coatsink.Common.Haglet:HandleException(Exception)
-Coatsink.Common.Haglet:TryExecute(ExecParams)
-Coatsink.Common.Haglet:TryExecute(ExecParams)
-Coatsink.Common.Haglet:Stop(Boolean)
-Coatsink.Common.Haglet:Coatsink.Common.HagletEvent.IResponder.OnEventCancel(HagletEvent)
-Coatsink.Common.HagletEvent:Cancel()
-Coatsink.Common.HagletBehaviourTime:OnDestroy()
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at Pool.FastDespawn (UnityEngine.GameObject clone, Single delay, Boolean ignoreWarnings) [0x00000] in <filename unknown>:0 
+  at Pool.TryDespawn (UnityEngine.GameObject clone, Single delay, .Pool& pool) [0x00000] in <filename unknown>:0 
+  at Pool.DespawnOrDestroy (UnityEngine.GameObject clone, Single delay) [0x00000] in <filename unknown>:0 
+  at Grass.RemoveThicket () [0x00000] in <filename unknown>:0 
+  at Grass.OnDisable () [0x00000] in <filename unknown>:0 
  
 (Filename:  Line: -1)
 
